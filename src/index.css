@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.mydiv{
+  height: 100vh;
+  width: 208vh;
+}
